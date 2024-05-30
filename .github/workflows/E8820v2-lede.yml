@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt E8820v2-lede
+name: Build OpenWrt E8820v2-lede 要报错 可能源码太久
 
 on:
   repository_dispatch:
